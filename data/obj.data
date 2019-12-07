@@ -1,4 +1,3 @@
-
 classes= 11
 train  = /content/darknetyolo/data/train.txt
 valid  = /content/darknetyolo/data/test.txt
